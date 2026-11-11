@@ -1,0 +1,7 @@
+member_id,age,gender,attribution_group,risk_score
+M1001,42,F,Premise Attributed,1.40
+M1002,35,M,Premise Attributed,0.95
+M1003,58,F,Community Attributed,2.10
+M1004,29,M,Non-Attributed,0.85
+M1005,61,M,Community Attributed,2.45
+M1006,45,F,Premise Attributed,1.15
